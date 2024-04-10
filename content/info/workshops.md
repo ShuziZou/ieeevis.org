@@ -1,5 +1,5 @@
 ---
-title: Workshops
+title: Workshops-test
 layout: page
 permalink: /info/workshops
 contact: workshops@ieeevis.org
