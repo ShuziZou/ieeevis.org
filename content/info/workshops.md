@@ -39,7 +39,7 @@ The following workshops went through our [submission/review process](http://ieee
 * [MERCADO: Multimodal Experiences for Remote Communication Around Data Online](#multiViz)
 * [VisxVision: Workshop on Novel Directions in Vision Science and Visualization Research](#VisxVision)
 * [(Vis + Prov) x Domain: Workshop on Visualization and Provenance Across Domains](#VisProv)
-
+*
 
 {% endcomment %}
 
